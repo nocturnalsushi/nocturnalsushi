@@ -1,4 +1,6 @@
-hemlo
+Hello and welcome to my Github profile!
+
+will update dis soon heh
 
 <!--
 **nocturnalsushi/nocturnalsushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
